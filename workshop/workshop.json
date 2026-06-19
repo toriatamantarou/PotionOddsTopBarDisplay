@@ -1,0 +1,8 @@
+{
+  "title": "Potion Odds Top Bar Display",
+  "description": "Displays the regular potion reward chance in the top bar. Hover over it to see both regular and elite potion reward chances.\n\nSupports English and Japanese labels.\nThis is a UI-only mod and does not alter gameplay.\nRequires Slay the Spire 2 v0.107.1 or later.",
+  "visibility": "public",
+  "changeNote": "Initial release.",
+  "tags": [],
+  "dependencies": []
+}

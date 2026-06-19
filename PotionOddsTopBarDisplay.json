@@ -1,0 +1,12 @@
+{
+  "id": "PotionOddsTopBarDisplay",
+  "name": "Potion Odds Top Bar Display",
+  "author": "toriatamantarou",
+  "description": "Displays regular potion reward odds in the top bar, with regular and elite odds shown on hover.",
+  "version": "v1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "min_game_version": "v0.107.1",
+  "affects_gameplay": false
+}

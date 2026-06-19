@@ -1,0 +1,30 @@
+# Godot generated files
+.godot/
+
+# .NET build outputs
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+
+# IDE and local agent settings
+.idea/
+.vs/
+.vscode/
+.agents/
+*.DotSettings.user
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Steam Workshop uploader state and generated package
+workshop/content/
+workshop/mod_id.txt
+workshop/mod-uploader.log
+workshop/*.log
+
+# Editable source for the Workshop preview image
+workshop/image.psd
